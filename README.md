@@ -1,4 +1,11 @@
-### Hi there 👋
+## Felicitations fellow malefactors...
+
+### Computer Science Double-Major with an Interest in Gaming Technologies.
+
+- :video_game: Currently developing (another) open source game engine.
+- :microscope: Spends free time exploring design patterns/researching algorithms.
+- :guitar: Part time rock star.
+- 🤐 Most the stuff I work on is classified.
 
 <!--
 **theskidster/theskidster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
