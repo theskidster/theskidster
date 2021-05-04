@@ -1,6 +1,6 @@
 ## Felicitations fellow malefactors...
 
-### Computer Science Double-Major with an Interest in Gaming Technologies.
+#### Computer Science Double-Major with an Interest in Gaming Technologies.
 
 - :video_game: Currently developing (another) open source game engine.
 - :microscope: Spends free time exploring design patterns/researching algorithms.
