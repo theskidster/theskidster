@@ -4,7 +4,6 @@
 
 - :video_game: Currently developing (another) open source game engine.
 - :microscope: Spends free time exploring design patterns/researching algorithms.
-- :guitar: Part time rock star.
 - 🤐 Most the stuff I work on is classified.
 
 <!--
