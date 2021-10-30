@@ -3,10 +3,10 @@
 #### Computer Science Undergraduate with an Interest in Low-Level Technologies.
 
 - :video_game: Currently developing (another) open source game engine.
-- :microscope: Spends free time exploring design patterns and researching algorithms.
+- :microscope: Spends free time exploring design patterns / researching algorithms.
 - :atom: Interested in working with emerging quantum technologies.
 - :guitar: When not otherwise occupied by a project I build electric guitars on the side.
-- 💬 Feel free to reach out with opportunities. I'm never busy enough!
+- 💬 Feel free to reach out with new opportunities. I'm always looking to learn more!
 
 <!--
 **theskidster/theskidster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
