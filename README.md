@@ -1,4 +1,4 @@
-#### Computer Science Undergraduate with an Interest in Low-Level Technologies.
+#### Computer Science Undergraduate with an Interest in Game Development.
 
 - :video_game: Currently working on a game using my [open source engine](https://xjge.org/).
 - :microscope: Spends free time exploring design patterns / researching new algorithms.
