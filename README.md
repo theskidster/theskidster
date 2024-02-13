@@ -1,11 +1,16 @@
-![screenshot](banner.jpg "Banner")
-
-
-### Hi there!
+### Previous Endeavors
 ---
-- :video_game: Currently working on a small project using my [open source game engine](https://xjge.org/).
-- :microscope: Enjoys exploring interesting design patterns and making use of new algorithms.
-- :guitar: Network admin by day, amateur luthier by night.
-- 💬 Feel free to reach out with exciting opportunities. I'm always looking to learn more!
+![screenshot](banner.JPG "Banner")
 
-![screenshot](1645555871044.jpg "XJGE demo.")
+I'm a software developer who's passionate about crafting compelling experiences and bringing people together through play. I first started making games using the BASIC programming language around 2011 and later switched to Java once those ideas could no longer be contained to a single code file.
+
+Recently, I've started utilizing powerful low-level technologies like [OpenGL](https://www.opengl.org/) and [GLFW](https://www.glfw.org/) to create an [Open-Source Game Engine](https://xjge.org/) that lets me quickly iterate and test new gameplay concepts.
+<br><br>
+
+### Current Project
+---
+![screenshot](demo2.gif "Mario Project")
+
+In my spare time, I've been developing a small Mario game to test my engines utilities. This process has helped me identify better methods and procedures to employ in future projects. Most updates to the engine since 2023 have been in response to some of the things I've discovered while creating this game.
+
+It's just a demo right now, but I'm excited to make the repo public sometime later this year!
