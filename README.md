@@ -11,6 +11,6 @@ Recently (since 2021), I've started utilizing powerful low-level technologies li
 ---
 ![screenshot](demo2.gif "Mario Project")
 
-In my spare time, I've been developing a small Mario game to test my engines utilities. This process has helped me identify better methods and procedures to employ in future projects. Most updates to the engine since 2023 have been in response to some of the things I've discovered while creating this game.
+In my spare time I've been developing a small Mario game to test my engines utilities. This process has helped me identify better methods and procedures to use in future projects. Most updates to the engine since 2023 have been in response to some of the things I discovered while creating this game.
 
-It's just a demo right now, but I'm excited to make the repo public sometime later this year!
+It's just a demo right now- but I'm excited to make the repo public sometime later this year!
