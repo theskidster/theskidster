@@ -1,4 +1,4 @@
-### Hi! I'm Jared 👋
+### Hi! I'm Theskidster 👋
 ---
 ![screenshot](banner.JPG "Banner")
 
